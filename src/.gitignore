@@ -1,0 +1,9 @@
+**/temp_models/**
+rbuf.p
+hex_board.png
+**/__pycache__/**
+**/models/**
+**/7x7_models/**
+**/images/**
+*.zip
+hex_client_23/*
